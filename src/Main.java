@@ -1,7 +1,9 @@
-import java.util.Scanner;
+
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("hello world!");
+        System.out.println("hello world");
         // Tek ve cut reqemleri cap eden proqram:
 //        Scanner scanner = new Scanner(System.in);
 //        System.out.println("Enter the number limit: ");
